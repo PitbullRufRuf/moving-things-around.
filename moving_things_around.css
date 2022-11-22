@@ -1,0 +1,12 @@
+body
+{
+	background-color: lightgrey;
+	text-align:  center;
+}
+
+#mycanvas
+{
+	background-color: lightgreen;
+	border: 2px solid black;
+	margin: 30px;
+}
